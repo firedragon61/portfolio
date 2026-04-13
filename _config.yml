@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shiu Kau Wong
+title: null
 email: cto@knwlmesh.info
 description: >- # this means to ignore newlines until "baseurl:"
   This is a collection of various instructional design projects I have 
