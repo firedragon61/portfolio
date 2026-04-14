@@ -69,4 +69,4 @@ to this Moodle LMS.
 ### Learning Activity App with 10,000 Questions
 This is a learning activity Android app showing 10,000 multiple choice questions. It was implemented
 with React Native and Expo.
-{% include youtubePlayer.html id="OYWRGJPk81Q" %}
+{% include youtubePlayer.html id="Ct3kA0YAeTU" %}
