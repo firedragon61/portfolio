@@ -4,6 +4,24 @@
 layout: default
 title: Projects
 ---
+## About me
+**Technical Learning Architect | Instructional Designer | eLearning Developer**
+
+I design and develop structured digital learning experiences for technical, compliance, and certification-based training. I bridge the gap
+between complex enterprise technology and high-performance vocational training through automated learning solutions.
+
+My work focuses on turning complex subject matter into clear, interactive learning modules using tools such as Articulate Storyline 360,
+Articulate Rise 360, Articulate Quizmaker 360, Moodle, D2L Brightspace, and H5P.
+
+I specialise in building assessment-driven learning systems, interactive eLearning modules, and LMS-ready content that supports measurable
+learning outcomes.
+
+Key areas:
+- Technical certification training (IT / cybersecurity / cloud)
+- Compliance and procedural training
+- Assessment and quiz system design
+- SCORM-based LMS content development
+
 ## Portfolio Piece 1
 ### Creating a Unit in the Brightspace LMS
 This blended course was created in the D2L Brightspace LMS at Victoria University.

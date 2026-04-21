@@ -21,8 +21,7 @@
 title: Instructional Design Portfolio
 email: cto@knwlmesh.info
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a collection of various instructional design projects I have 
-  completed.
+  I design structured, interactive digital learning experiences for technical, compliance, and certification-based training.  
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://firedragon61.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
