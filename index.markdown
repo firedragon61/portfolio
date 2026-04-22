@@ -81,7 +81,7 @@ LMS.
 [![CompTIA Security+ SY0-701 Question Bank 1](https://knwlmesh.info/pluginfile.php/36/course/overviewfiles/soc_sm.png)](https://knwlmesh.info/course/view.php?id=5)
 
 
-## Portfolio Piece 10 
+## Portfolio Piece 10
 ### Microsoft AZ-104 Question Bank 1
 This is a course implemented in Articulate Storyline 360. A quiz with 60 multiple choice and word
 bank questions was created with Articulate Quizmaker 360. The SCORM package was exported and uploaded
@@ -93,3 +93,9 @@ to this Moodle LMS.
 This is a learning activity Android app showing 10,000 multiple choice questions. It was implemented
 with React Native and Expo.
 {% include youtubePlayer.html id="Ct3kA0YAeTU" %}
+
+## Portfolio Piece 12
+### Cybersecurity Essentials Series 1
+This is a microlearning course on Cyber Security implemented with the [Adapt Framework](https://www.adaptlearning.org/) using JSON code only. The SCORM package was exported and uploaded to this Moodle LMS.
+
+[![Cybersecurity Essentials Series 1](https://knwlmesh.info/pluginfile.php/50/course/overviewfiles/https_sm.png)](https://knwlmesh.info/course/view.php?id=7)
