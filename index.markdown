@@ -96,6 +96,6 @@ with React Native and Expo.
 
 ## Portfolio Piece 12
 ### Cybersecurity Essentials Series 1
-This is a microlearning course on Cyber Security implemented with the [Adapt Framework](https://www.adaptlearning.org/) using JSON code only. The SCORM package was exported and uploaded to this Moodle LMS.
+This is a microlearning course on Cyber Security implemented with the [Adapt Framework](https://www.adaptlearning.org/){:target="_blank"} using JSON code only. The SCORM package was exported and uploaded to this Moodle LMS.
 
 [![Cybersecurity Essentials Series 1](https://knwlmesh.info/pluginfile.php/50/course/overviewfiles/https_sm.png)](https://knwlmesh.info/course/view.php?id=7)
