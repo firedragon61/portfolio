@@ -99,3 +99,9 @@ with React Native and Expo.
 This is a microlearning course on Cyber Security implemented with the [Adapt Framework](https://www.adaptlearning.org/){:target="_blank"} using JSON code only. The SCORM package was exported and uploaded to this Moodle LMS.
 
 [![Cybersecurity Essentials Series 1](https://knwlmesh.info/pluginfile.php/50/course/overviewfiles/https_sm.png)](https://knwlmesh.info/course/view.php?id=7)
+
+## Portfolio Piece 13
+### Introduction to Instructional Design
+This is a microlearning course on Instructional Design. It was done completely via vibe coding in [Claude.ai](https://claude.ai/){:target="_blank"} with claude.ai providing the HTML/CSS/Javascript files. The SCORM package was exported and uploaded to this Moodle LMS.
+
+[![Introduction to Instructional Design](https://knwlmesh.info/pluginfile.php/55/course/overviewfiles/high-impact.png)](https://knwlmesh.info/course/view.php?id=8)
