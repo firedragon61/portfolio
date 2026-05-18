@@ -104,4 +104,10 @@ This is a microlearning course on Cyber Security implemented with the [Adapt Fra
 ### Introduction to Instructional Design
 This is a microlearning course on Instructional Design. It was done completely via vibe coding in [Claude.ai](https://claude.ai/){:target="_blank"} with claude.ai providing the HTML/CSS/Javascript files. The SCORM package was exported and uploaded to this Moodle LMS.
 
-[![Introduction to Instructional Design](https://knwlmesh.info/pluginfile.php/55/course/overviewfiles/high-impact.png)](https://knwlmesh.info/course/view.php?id=8)
+[![Introduction to Instructional Design](https://knwlmesh.info/pluginfile.php/55/course/overviewfiles/id2.png)](https://knwlmesh.info/course/view.php?id=8)
+
+## Portfolio Piece 14
+### Intermediate Instructional Design
+This is a long course on Instructional Design with 468 slides. This is a Proof-of-Concept (POC) project to create content using local AI (ollama + unsloth/Qwen3-14B-GGUF UD-Q4_K_XL). Each module took about 30 minutes to create approximately 45 slides in the markdown format to be used in [slidev](https://sli.dev). The SCORM package was exported and uploaded to this Moodle LMS, with a packager developed by Google Gemini Pro.
+
+[![Introduction to Instructional Design](https://knwlmesh.info/pluginfile.php/59/course/overviewfiles/id3.png)](https://knwlmesh.info/course/view.php?id=9)
