@@ -108,6 +108,17 @@ This is a microlearning course on Instructional Design. It was done completely v
 
 ## Portfolio Piece 14
 ### Intermediate Instructional Design
-This is a long course on Instructional Design with 468 slides. This is a Proof-of-Concept (POC) project to create content using local AI (ollama + unsloth/Qwen3-14B-GGUF UD-Q4_K_XL). Each module took about 30 minutes to create approximately 45 slides in the markdown format to be used in [slidev](https://sli.dev). The SCORM package was exported and uploaded to this Moodle LMS, with a packager developed by Google Gemini Pro.
+This is a long course on Instructional Design with 468 slides. This is a Proof-of-Concept (POC) project to create content using local AI (ollama + unsloth/Qwen3-14B-GGUF UD-Q4_K_XL). Each module took about 30 minutes to create approximately 45 slides in the markdown format to be used in [slidev](https://sli.dev){:target="_blank"}. The SCORM package was exported and uploaded to this Moodle LMS, with a packager developed by Google Gemini Pro.
 
 [![Introduction to Instructional Design](https://knwlmesh.info/pluginfile.php/59/course/overviewfiles/id3.png)](https://knwlmesh.info/course/view.php?id=9)
+
+## Portfolio Piece 15
+### Introduction to VLAN
+This is a course on VLAN with 368 slides. This is a Proof-of-Concept (POC) project to create content using these local AI tools:
+- ollama + unsloth/Qwen3-14B-GGUF UD-Q4_K_XL (text generation)
+- ComfyUI + Qwen3 TTS (audio narration)
+- ComfyUI + Z-Image-Turbo (image generation)
+
+The SCORM package was exported and uploaded to this Moodle LMS.
+
+[![Introduction to VLAN](https://knwlmesh.info/pluginfile.php/63/course/overviewfiles/ccna_00037.png)](https://knwlmesh.info/course/view.php?id=10)
