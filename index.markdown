@@ -122,3 +122,8 @@ This is a course on VLAN with 368 slides. This is a Proof-of-Concept (POC) proje
 The SCORM package was exported and uploaded to this Moodle LMS.
 
 [![Introduction to VLAN](https://knwlmesh.info/pluginfile.php/63/course/overviewfiles/ccna_00037.png)](https://knwlmesh.info/course/view.php?id=10)
+
+## Portfolio Piece 16
+### Creating a 30-Day Onboarding Plan for a Personal Care Assistant
+This onboarding plan for a personal care assistant was created with Open Design, via opencode with openrouter + deepseek-v4-flash.
+{% include youtubePlayer.html id="3dbN10bP5rQ" %}<br>
