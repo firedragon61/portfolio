@@ -127,3 +127,10 @@ The SCORM package was exported and uploaded to this Moodle LMS.
 ### Creating a 30-Day Onboarding Plan for a Personal Care Assistant
 This onboarding plan for a personal care assistant was created with Open Design, via opencode with openrouter + deepseek-v4-flash.
 {% include youtubePlayer.html id="3dbN10bP5rQ" %}<br>
+
+## Portfolio Piece 17
+### CISSP Exam Practice
+This is a CISSP Exam Practice to reinforce the learning materials using multiple choice questions and answers. Each practice exam has 175 questions. There are a total of 10 sets of practice exams with a total of 30 hours of practice. The progress is saved automatically. The design is created by Open Design. The code implementation is developed by the AI model Kimi K2.6.
+
+[![CISSP Practice](cissp.png)](https://cissp.knwlmesh.online) 
+
