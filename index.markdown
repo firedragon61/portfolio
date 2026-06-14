@@ -132,10 +132,17 @@ This onboarding plan for a personal care assistant was created with Open Design,
 ### CISSP Exam Practice
 This is a CISSP Exam Practice to reinforce the learning materials using multiple choice questions and answers. Each practice exam has 175 questions. There are a total of 10 sets of practice exams with a total of 30 hours of practice. The progress is saved automatically (for the same device). The design is created by Open Design. The code implementation is done by the AI model Kimi K2.6.
 
-[![CISSP Practice](cissp.png)](https://cissp.knwlmesh.online) 
+[![CISSP Practice](cissp.png)](https://cissp.knwlmesh.online)
 
 ## Portfolio Piece 18
 ### Instructional Design Trivia App
 This is an instructional design quiz app. Each question set has 40 questions. The progress is saved automatically (for the same device). The design is created by Open Design. The code implementation is done by the AI model Deepseek-v4-flash.
 
-[![Instructional Design Quiz](ld.png)](https://ld.knwlmesh.online) 
+[![Instructional Design Quiz](ld.png)](https://ld.knwlmesh.online)
+
+## Portfolio Piece 19
+### TOGAF Exam Practice
+
+This is a TOGAF Exam Practice to reinforce the learning materials using multiple choice questions and answers. Each practice exam has 40 questions. There are a total of 6 sets of practice exams with a total of 6 hours of practice. The progress is saved automatically (for the same device). The design is created by Open Design. The code implementation is done by the AI model Deepseek V4 Flash.
+
+[![TOGAF Practice](togaf.png)](https://togaf.knwlmesh.online) 
