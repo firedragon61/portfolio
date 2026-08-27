@@ -145,4 +145,11 @@ This is an instructional design quiz app. Each question set has 40 questions. Th
 
 This is a TOGAF Exam Practice to reinforce the learning materials using multiple choice questions and answers. Each practice exam has 40 questions. There are a total of 6 sets of practice exams with a total of 6 hours of practice. The progress is saved automatically (for the same device). The design is created by Open Design. The code implementation is done by the AI model Deepseek V4 Flash.
 
-[![TOGAF Practice](togaf.png)](https://togaf.knwlmesh.online) 
+[![TOGAF Practice](togaf.png)](https://togaf.knwlmesh.online)
+
+## Portfolio Piece 20
+### Webinar: ASQA Guidance on Responsible AI Use in VET
+
+The content of this webinar is created by Deepseek V4 Flash and imported into Microsoft Powerpoint. The voice cloning is created with the ComfyUI TTS Audio Suite. The video is created in OBS Studio by playing the presentation in Powerpoint and audio clips in sequence.
+
+{% include youtubePlayer.html id="5ex4vNM4_Yg" %}
